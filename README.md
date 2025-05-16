@@ -26,3 +26,25 @@ iceCreamPrices = [10, 25, 30, 50]
 Output:
 true
 
+
+---
+
+## 🧠 Problem 2: Vir's Archery Progress 🏹
+
+**Description:**  
+Vir is practicing archery. He takes `n` shots and records the score of each shot (an integer between 0 and 10).  
+Shots scoring **7 or more** are considered **good shots**, and those scoring **less than 7** are considered **missed shots**.
+
+### ✅ Input:
+
+- An integer `n` (1 ≤ n ≤ 100) — the number of shots taken  
+- A list of `n` integers representing the score of each shot (`0 ≤ score ≤ 10`)
+
+### ✅ Output:
+
+- Two space-separated integers:  
+  `good_shots missed_shots`
+
+### 💡 Example:
+
+**Input:**
